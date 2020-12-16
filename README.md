@@ -31,7 +31,7 @@ My other interests include gaming, listening to music and playing basketball.
 <br>
 <img src="https://img.icons8.com/color/65/000000/html-5.png"/> <img src="https://img.icons8.com/color/65/000000/css3.png"/>  &nbsp;<img src="https://img.icons8.com/ultraviolet/55/000000/react.png"/> 
 <br/>
-<img src="./flask.png" height="60px" width="60px"> <img src="https://img.icons8.com/color/80/000000/nodejs.png"/>&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/ios/80/000000/mysql-logo.png"/><img src="https://img.icons8.com/color/65/000000/git.png"/><img src="https://img.icons8.com/windows/65/000000/github.png"/>
+<img src="https://img.icons8.com/color/80/000000/nodejs.png"/>&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/ios/80/000000/mysql-logo.png"/><img src="https://img.icons8.com/color/65/000000/git.png"/><img src="https://img.icons8.com/windows/65/000000/github.png"/>
 <br>
 
 </p>
