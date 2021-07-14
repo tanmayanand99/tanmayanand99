@@ -6,7 +6,7 @@ Strong in design and integration with intuitive problem-solving
 skills.
 Passionate about implementing and launching new projects.
 Ability to translate business requirements into technical solutions.
-I am Sophomore @Geu pursuing Computer Science and
+I am a Junior @Geu pursuing Computer Science and
 Engineering with Specialization in Data Science and Artificial
 Intelligence.
 My other interests include gaming, listening to music and playing basketball.
